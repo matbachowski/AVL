@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <accountData>
+      <list>
+        <AccountData>
+          <accountId value="VXNlcjo0MjYyNjg=" />
+          <chats>
+            <list>
+              <chat>
+                <internalId value="acbc34e0-fc3a-4e05-99e8-2ee394f1b105" />
+                <llm>
+                  <llm>
+                    <model value="anthropic/claude-3-sonnet-20240229" />
+                    <provider value="Anthropic" />
+                    <title value="Claude 3 Sonnet" />
+                  </llm>
+                </llm>
+                <messages>
+                  <list>
+                    <message>
+                      <speaker value="HUMAN" />
+                      <text value="Are you able to analyze whole code in this project?" />
+                    </message>
+                    <message>
+                      <speaker value="ASSISTANT" />
+                      <text value="Yes, I am able to analyze the entire codebase for this project. However, you have not provided the code or specified which project you would like me to analyze. If you can share the code or provide a link to the project repository, I would be happy to analyze it for you." />
+                    </message>
+                  </list>
+                </messages>
+                <updatedAt value="2024-05-20T17:16:18.7503662" />
+              </chat>
+            </list>
+          </chats>
+          <defaultLlm>
+            <llm>
+              <model value="anthropic/claude-3-sonnet-20240229" />
+              <provider value="Anthropic" />
+              <title value="Claude 3 Sonnet" />
+            </llm>
+          </defaultLlm>
+        </AccountData>
+      </list>
+    </accountData>
+  </component>
+</project>
